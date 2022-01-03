@@ -1,2 +1,2 @@
 # Go-Blockchain
-Blockchain written in Golang
+POW Blockchain written in Golang
